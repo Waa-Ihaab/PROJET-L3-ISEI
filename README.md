@@ -44,28 +44,6 @@ Projet/
 └── figures/                   # Visualisations générées
 ```
 
-## 📈 Visualisations
-
-### Distribution de l'Âge
-![Distribution Age](figures/distribution_age.png)
-*Répartition des patients par catégorie d'âge*
-
-### Distribution de l'IMC (BMI)
-![Distribution BMI](figures/distribution_bmi.png)
-*Analyse de l'Indice de Masse Corporelle des patients*
-
-### Répartition du Diabète
-![Répartition Diabète](figures/repartition_diabete.png)
-*Proportions des statuts diabétiques dans l'échantillon*
-
-### Relation Âge-IMC
-![Relation Age-BMI](figures/relation_age_bmi.png)
-*Corrélation entre l'âge et l'IMC des patients*
-
-### Matrice de Confusion KNN
-![KNN Confusion Matrix](figures/knn_confusion_matrix.png)
-*Performance du modèle K-Nearest Neighbors*
-
 ## 🚀 Installation et Utilisation
 
 ### Prérequis
@@ -130,18 +108,6 @@ Le dataset contient des indicateurs de santé binaires incluant:
 
 Les résultats détaillés de chaque modèle (précision, recall, f1-score) sont automatiquement sauvegardés dans `resultats.txt` après chaque exécution.
 
-## 👥 Auteur
 
-**Projet L3 ISEI** - Analyse de données médicales et Machine Learning
 
-## 📄 Licence
-
-Projet académique - L3 ISEI
-
-## 🔗 Repository
-
-https://github.com/Waa-Ihaab/PROJET-L3-ISEI
-
----
-
-*Développé dans le cadre du cursus L3 ISEI - Science des Données et Intelligence Artificielle*
+*Développé dans le cadre du cursus L3 ISEI - Python*
