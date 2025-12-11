@@ -1,0 +1,64 @@
+=== KNN ===
+Accuracy: 0.8300395256916996
+Matrice de confusion:
+[[414  21]
+ [ 65   6]]
+Rapport de classification:
+              precision    recall  f1-score   support
+
+           0       0.86      0.95      0.91       435
+           1       0.22      0.08      0.12        71
+
+    accuracy                           0.83       506
+   macro avg       0.54      0.52      0.51       506
+weighted avg       0.77      0.83      0.80       506
+
+
+=== Logistic Regression ===
+Accuracy: 0.849802371541502
+Matrice de confusion:
+[[424  11]
+ [ 65   6]]
+Rapport de classification:
+              precision    recall  f1-score   support
+
+           0       0.87      0.97      0.92       435
+           1       0.35      0.08      0.14        71
+
+    accuracy                           0.85       506
+   macro avg       0.61      0.53      0.53       506
+weighted avg       0.79      0.85      0.81       506
+
+
+=== Decision Tree ===
+Accuracy: 0.7806324110671937
+Matrice de confusion:
+[[375  60]
+ [ 51  20]]
+Rapport de classification:
+              precision    recall  f1-score   support
+
+           0       0.88      0.86      0.87       435
+           1       0.25      0.28      0.26        71
+
+    accuracy                           0.78       506
+   macro avg       0.57      0.57      0.57       506
+weighted avg       0.79      0.78      0.79       506
+
+
+=== SVM ===
+Accuracy: 0.8596837944664032
+Matrice de confusion:
+[[435   0]
+ [ 71   0]]
+Rapport de classification:
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.92       435
+           1       0.00      0.00      0.00        71
+
+    accuracy                           0.86       506
+   macro avg       0.43      0.50      0.46       506
+weighted avg       0.74      0.86      0.79       506
+
+
